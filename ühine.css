@@ -1,0 +1,21 @@
+html, body {
+    height: 100%; 
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 2cm;
+    margin-right: 3.5cm;
+}
+
+.content h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    text-align: left;
+    font-size: 20px;
+    margin-left: 2cm;
+}

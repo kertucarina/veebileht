@@ -1,0 +1,70 @@
+html, body {
+    height: 100%; 
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(245, 209, 215);
+}
+
+.intro {
+    background-image: url("pärnulinn.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+.intro h1 {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+} 
+
+.content {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 2cm;
+    margin-right: 3.5cm;
+}
+
+.content h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    text-align: left;
+    font-size: 20px;
+    margin-left: 2cm;
+}
+
+.rand {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 2cm;
+    margin-right: 15cm;
+}
+
+ul {
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+    font-size: 15px;
+ }
+
+.box {
+    background-color: rgb(255, 255, 255);
+    width: 95%;
+    border: 10px solid rgb(0, 94, 117);
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.video {
+    position: absolute;
+    right: 1.5cm;
+    top: 750px;
+}
