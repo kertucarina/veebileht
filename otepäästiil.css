@@ -1,7 +1,7 @@
 body {
-    background-color: rgb(255, 241, 181);
+    background-color: rgb(222, 235, 248);
     height: 100%;
-    margin: 0;
+    margin: 0
 }
 
 html {
@@ -10,7 +10,7 @@ html {
   }
 
 .taust {
-    background-image: url('narva.jpg');
+    background-image: url('otepäälinn.jpg');
     height: 100%; 
     background-position: center;
     background-repeat: no-repeat;
@@ -19,7 +19,7 @@ html {
 }
 
 h1 {
-    color: rgb(97, 57, 41);
+    color: rgb(255, 255, 255);
     font-family: 'Montserrat', sans-serif;
     text-align: center;
     font-size: 50px;
@@ -70,7 +70,6 @@ li {
     text-align: left;
     font-family: 'Montserrat', sans-serif;
     margin-right: 0px;
-    margin-top: 0px;
 }
 
 p {
@@ -88,7 +87,30 @@ p {
     margin-right: 3.5cm;
 }
 
+.videotekst1 {
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 0px;
+    margin-left: 2cm;
+    margin-right: 17cm;
+    text-align: justify;
+}
+
+.videotekst2 {
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 0px;
+    margin-bottom: 7px;
+    margin-left: 2cm;
+    margin-right: 17cm;
+    text-align: justify;
+}
+
 table {
     margin-left: 2cm;
     margin-top: 0px
+}
+
+.video {
+    position: absolute;
+    right: 1.5cm;
+    top: 750px;
 }
