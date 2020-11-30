@@ -64,4 +64,15 @@ ul {
     font-family: 'Montserrat', sans-serif;
     text-align: justify;
     font-size: 15px;
- }
+}
+
+th, td {
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 2cm;
+}
+
+table {
+    margin-left: 2cm;
+    margin-top: 0px
+}
