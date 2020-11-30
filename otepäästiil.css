@@ -66,6 +66,11 @@ ul {
     margin-top: 0px
 }
 
+.ul3 {
+    margin-left: 0px;
+    margin-top: 0px
+}
+
 li {
     text-align: left;
     font-family: 'Montserrat', sans-serif;
@@ -77,6 +82,7 @@ p {
     margin-top: 0px;
     margin-left: 2cm;
     margin-right: 3.5cm;
+    text-align: justify;
 }
 
 .p2 {
@@ -85,6 +91,7 @@ p {
     margin-bottom: 7px;
     margin-left: 2cm;
     margin-right: 3.5cm;
+    text-align: justify;
 }
 
 .videotekst1 {
@@ -113,4 +120,14 @@ table {
     position: absolute;
     right: 1.5cm;
     top: 750px;
+}
+
+.box {
+    background-color: rgb(231, 250, 212);
+    border: 10px solid rgb(117, 145, 82);
+    padding: 20px;
+    margin-left: 3cm;
+    margin-right: 3cm;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
 }
