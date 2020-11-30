@@ -45,3 +45,13 @@ li {
     margin-left: 0px;
     margin-top: 0px
 }
+
+.vorm {
+    margin-left: 2cm;
+}
+
+.kast {
+    font-family: 'Montserrat', sans-serif;
+    text-align: justify;
+    font-size: 15px;
+ }

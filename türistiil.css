@@ -15,28 +15,22 @@ body {
 
 .elamuspark {
     font-family: 'Montserrat', sans-serif;
-    font-size: 20px;
     text-align: justify;
-    margin-left: 2cm;
-    margin-right: 15cm;
+    margin-right: 12cm;
 }
-
-ul {
-    font-family: 'Montserrat', sans-serif;
-    text-align: justify;
-    font-size: 15px;
- }
 
 .box {
     background-color: rgb(251, 224, 252);
-    width: 95%;
     border: 10px solid rgb(113, 58, 145);
     padding: 20px;
-    margin: 20px;
+    margin-left: 3cm;
+    margin-right: 3cm;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
 }
 
 .video {
     position: absolute;
-    right: 1.5cm;
-    top: 710px;
+    right: 2.5cm;
+    top: 658px;
 }

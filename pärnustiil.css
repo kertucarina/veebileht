@@ -19,16 +19,6 @@ body {
     margin-right: 12cm;
 }
 
-.vorm {
-    margin-left: 2cm;
-}
-
-.kast {
-    font-family: 'Montserrat', sans-serif;
-    text-align: justify;
-    font-size: 15px;
- }
-
 .box {
     background-color: rgb(255, 255, 255);
     border: 10px solid rgb(0, 94, 117);
