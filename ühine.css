@@ -11,16 +11,17 @@ p {
     text-align: justify;
 }
 
-h2 {
-    
-    margin-bottom: 7px;
+.p2 {
     font-family: 'Montserrat', sans-serif;
+    margin-top: 0px;
+    margin-bottom: 7px;
     margin-left: 2cm;
     margin-right: 3.5cm;
+    text-align: justify;
 }
 
-h3 {
-    margin-top: 0px;
+h2 {
+    margin-bottom: 7px;
     font-family: 'Montserrat', sans-serif;
     margin-left: 2cm;
     margin-right: 3.5cm;
@@ -38,10 +39,30 @@ li {
     text-align: left;
     font-family: 'Montserrat', sans-serif;
     margin-right: 0px;
-    margin-top: 0px;
+}
+
+ul {
+    margin-left: 2cm;
+    margin-top: 0px
+}
+
+.ul2 {
+    margin-left: -25px;
+    margin-top: 0px
 }
 
 .ul3 {
     margin-left: 0px;
+    margin-top: 0px
+}
+
+th, td {
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 2cm;
+}
+
+table {
+    margin-left: 2cm;
     margin-top: 0px
 }
