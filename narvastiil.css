@@ -4,11 +4,6 @@ body {
     margin: 0;
 }
 
-html {
-    height: 100%;
-    margin: 0;
-  }
-
 .taust {
     background-image: url('narvalinn.jpg');
     height: 100%; 
@@ -16,83 +11,6 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
     margin-bottom: 35px;
-}
-
-h1 {
-    color: rgb(97, 57, 41);
-    font-family: 'Montserrat', sans-serif;
-    text-align: center;
-    font-size: 50px;
-    margin-left: 2cm;
-    margin-right: 3.5cm;
-}
-
-h2 {
-    
-    margin-bottom: 7px;
-    font-family: 'Montserrat', sans-serif;
-    margin-left: 2cm;
-    margin-right: 3.5cm;
-}
-
-h3 {
-    margin-top: 0px;
-    font-family: 'Montserrat', sans-serif;
-    margin-left: 2cm;
-    margin-right: 3.5cm;
-}
-
-h4 {
-    margin-bottom: 0px;
-    margin-top: 0px;
-    font-family: 'Montserrat', sans-serif;
-    margin-left: 2cm;
-    margin-right: 3.5cm;
-}
-
-th, td {
-    text-align: left;
-    font-family: 'Montserrat', sans-serif;
-    margin-left: 2cm;
-}
-
-ul {
-    margin-left: 2cm;
-    margin-top: 0px
-}
-
-.ul2 {
-    margin-left: -25px;
-    margin-top: 0px
-}
-
-.ul3 {
-    margin-left: 0px;
-    margin-top: 0px
-}
-
-li {
-    text-align: left;
-    font-family: 'Montserrat', sans-serif;
-    margin-right: 0px;
-    margin-top: 0px;
-}
-
-p {
-    font-family: 'Montserrat', sans-serif;
-    margin-top: 0px;
-    margin-left: 2cm;
-    margin-right: 3.5cm;
-    text-align: justify;
-}
-
-.p2 {
-    font-family: 'Montserrat', sans-serif;
-    margin-top: 0px;
-    margin-bottom: 7px;
-    margin-left: 2cm;
-    margin-right: 3.5cm;
-    text-align: justify;
 }
 
 .videotekst1 {
@@ -110,11 +28,6 @@ p {
     margin-left: 2cm;
     margin-right: 16cm;
     text-align: justify;
-}
-
-table {
-    margin-left: 2cm;
-    margin-top: 0px
 }
 
 .video {
