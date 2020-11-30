@@ -1,54 +1,29 @@
-html, body {
-    height: 100%; 
-    margin: 0;
-    padding: 0;
-}
-
 body {
-    font-family: 'Montserrat', sans-serif;
-    background-color: rgb(245, 209, 215);
+    background-color: rgb(240, 208, 224);
+    height: 100%;
+    margin: 0;
 }
 
-.intro {
-    background-image: url("pärnulinn.jpg");
+.taust {
+    background-image: url('pärnulinn.jpg');
     height: 100%; 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    margin-bottom: 35px;
 } 
-
-.intro h1 {
-    font-family: 'Montserrat', sans-serif;
-    color: white;
-    text-align: center;
-    font-size: 50px;
-} 
-
-.content {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 20px;
-    text-align: justify;
-    margin-left: 2cm;
-    margin-right: 3.5cm;
-}
-
-.content h2 {
-    font-family: 'Montserrat', sans-serif;
-    color: black;
-    text-align: left;
-    font-size: 20px;
-    margin-left: 2cm;
-}
 
 .rand {
     font-family: 'Montserrat', sans-serif;
-    font-size: 20px;
     text-align: justify;
-    margin-left: 2cm;
-    margin-right: 15cm;
+    margin-right: 12cm;
 }
 
-ul {
+.vorm {
+    margin-left: 2cm;
+}
+
+.kast {
     font-family: 'Montserrat', sans-serif;
     text-align: justify;
     font-size: 15px;
@@ -56,15 +31,16 @@ ul {
 
 .box {
     background-color: rgb(255, 255, 255);
-    width: 95%;
     border: 10px solid rgb(0, 94, 117);
     padding: 20px;
-    margin: 20px;
-
+    margin-left: 3cm;
+    margin-right: 3cm;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
 }
 
 .video {
     position: absolute;
-    right: 1.5cm;
-    top: 750px;
+    right: 2.5cm;
+    top: 670px;
 }

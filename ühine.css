@@ -1,21 +1,47 @@
-html, body {
+html {
     height: 100%; 
     margin: 0;
-    padding: 0;
 }
 
-.content {
+p {
     font-family: 'Montserrat', sans-serif;
-    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 2cm;
+    margin-right: 3.5cm;
     text-align: justify;
+}
+
+h2 {
+    
+    margin-bottom: 7px;
+    font-family: 'Montserrat', sans-serif;
     margin-left: 2cm;
     margin-right: 3.5cm;
 }
 
-.content h2 {
+h3 {
+    margin-top: 0px;
     font-family: 'Montserrat', sans-serif;
-    color: black;
-    text-align: left;
-    font-size: 20px;
     margin-left: 2cm;
+    margin-right: 3.5cm;
+}
+
+h4 {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 2cm;
+    margin-right: 3.5cm;
+}
+
+li {
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+.ul3 {
+    margin-left: 0px;
+    margin-top: 0px
 }
